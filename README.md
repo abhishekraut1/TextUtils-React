@@ -1,3 +1,8 @@
+# TextUtils
+TextUtils is a user-friendly text editor utilizing React, Node.js, and Bootstrap. Enables essential text operations such
+as converting case, removing spaces, and inverting text. Designed for practical day-to-day application, showcasing
+proficiency in modern web development.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
